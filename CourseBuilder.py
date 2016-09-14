@@ -69,3 +69,4 @@ my_account = api.Accounts.get(1)
 create_course(my_account)
 
 # ToDo add logging
+# ToDo handle folder name with more than 1 digits number like 10, 11, 12..
